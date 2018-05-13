@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# THIS IS TO MAKE CHANGES IN GIT 
 # C extensions
 *.so
 
